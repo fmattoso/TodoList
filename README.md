@@ -6,6 +6,7 @@ Aplicativo Completo de Lista de Tarefas
 - Package flutter_slidable;
 - SnackBar;
 - Dart Assíncrono;
+- Future/Async/Await;
 
 ## Getting Started
 
